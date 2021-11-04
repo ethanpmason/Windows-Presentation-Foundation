@@ -1,0 +1,12 @@
+C:\Users\eth4n\Documents\Allpax Software Engineer Aptitude Test\CustomerConnectionsApp\bin\Debug\net5.0\CustomerConnectionsApp.Domain.deps.json
+C:\Users\eth4n\Documents\Allpax Software Engineer Aptitude Test\CustomerConnectionsApp\bin\Debug\net5.0\CustomerConnectionsApp.Domain.dll
+C:\Users\eth4n\Documents\Allpax Software Engineer Aptitude Test\CustomerConnectionsApp\bin\Debug\net5.0\ref\CustomerConnectionsApp.Domain.dll
+C:\Users\eth4n\Documents\Allpax Software Engineer Aptitude Test\CustomerConnectionsApp\bin\Debug\net5.0\CustomerConnectionsApp.Domain.pdb
+C:\Users\eth4n\Documents\Allpax Software Engineer Aptitude Test\CustomerConnectionsApp\obj\Debug\net5.0\CustomerConnectionsApp.Domain.csproj.AssemblyReference.cache
+C:\Users\eth4n\Documents\Allpax Software Engineer Aptitude Test\CustomerConnectionsApp\obj\Debug\net5.0\CustomerConnectionsApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eth4n\Documents\Allpax Software Engineer Aptitude Test\CustomerConnectionsApp\obj\Debug\net5.0\CustomerConnectionsApp.Domain.AssemblyInfoInputs.cache
+C:\Users\eth4n\Documents\Allpax Software Engineer Aptitude Test\CustomerConnectionsApp\obj\Debug\net5.0\CustomerConnectionsApp.Domain.AssemblyInfo.cs
+C:\Users\eth4n\Documents\Allpax Software Engineer Aptitude Test\CustomerConnectionsApp\obj\Debug\net5.0\CustomerConnectionsApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eth4n\Documents\Allpax Software Engineer Aptitude Test\CustomerConnectionsApp\obj\Debug\net5.0\CustomerConnectionsApp.Domain.dll
+C:\Users\eth4n\Documents\Allpax Software Engineer Aptitude Test\CustomerConnectionsApp\obj\Debug\net5.0\ref\CustomerConnectionsApp.Domain.dll
+C:\Users\eth4n\Documents\Allpax Software Engineer Aptitude Test\CustomerConnectionsApp\obj\Debug\net5.0\CustomerConnectionsApp.Domain.pdb

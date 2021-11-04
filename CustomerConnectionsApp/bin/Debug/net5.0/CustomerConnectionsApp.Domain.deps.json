@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CustomerConnectionsApp.Domain/1.0.0": {
+        "runtime": {
+          "CustomerConnectionsApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CustomerConnectionsApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
